@@ -2,7 +2,9 @@
 
 ## 项目简介
 
-本项目围绕吴恩达老师在DeepLearning.AI出品的agent-skills-with-anthropic系列课程，为学习者打造中文翻译与知识整理教程。项目提供课程内容翻译、知识点梳理和示例代码解读等内容，欢迎大家Star!
+本项目是基于吴恩达老师在DeepLearning.AI平台推出的agent-skills-with-anthropic系列课程的中文学习资料整理项目。我们致力于为中文学习者提供高质量的课程内容翻译、系统的知识点梳理以及详细的示例代码解读，帮助大家更轻松地掌握Agent Skills。
+
+项目采用开源协作模式，欢迎广大学习者参与贡献，共同完善中文学习生态。如果本项目对您有所帮助，欢迎给我们点个Star！
 
 **视频课程地址：** [DeepLearning.AI - agent-skills-with-anthropic](https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/)
 
@@ -10,9 +12,17 @@
 
 
 ## 项目受众
-
+- 对AI agent和Claude相关技术感兴趣的学习者
+- 希望了解如何使用和创建AI skills的开发者
+- 想要学习吴恩达老师课程但英文阅读有障碍的中文用户
+- 对AI技术应用感兴趣的学生和研究人员
 
 ## 项目亮点
+- 完整的中文翻译，降低学习门槛
+- 系统的知识点梳理，帮助理解核心概念
+- 详细的示例代码解读，便于实践应用
+- 开源协作模式，欢迎社区贡献
+- 与官方课程同步，保持内容完善
 
 
 ## 项目规划
