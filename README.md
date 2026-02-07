@@ -52,8 +52,8 @@
 - 如果有任何想法可以联系我们，也欢迎大家多多提出 issue
 - 特别感谢以下为教程做出贡献的同学！
 <div align=center style="margin-top: 30px;">
-<a href="https://github.com/agent-skills-with-anthropic/undefined/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=agent-skills-with-anthropic/undefined" />
+<a href="https://github.com/datawhalechina/agent-skills-with-anthropic/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=datawhalechina/agent-skills-with-anthropic" />
 </a>
 </div
 
