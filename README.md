@@ -4,10 +4,6 @@
   <h1>agent-skills-with-anthropic</h1>
 </div>
 
-<div align="center">
-
-
-
 
 ## 项目简介
 
