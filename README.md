@@ -15,6 +15,14 @@
 
 **官网解读教程：** [sc-agent-skills-files](https://github.com/https-deeplearning-ai/sc-agent-skills-files)
 
+## 项目友链
+
+**agentic-ai**： 从智能体的工作流、反思模式、工具调用和自主 Agent 构建等内容进行翻译、梳理与代码解读，帮助学习者系统掌握 Agentic AI 的核心方法与实践应用。 （[agentic-ai](https://github.com/datawhalechina/agentic-ai)）
+
+
+**ai-prompting-for-everyone**：这门课程偏入门，重点不是讲复杂的模型原理，而是讲普通用户如何更好地向 AI 提问，如何把任务说清楚，如何让 AI 给出更符合需求的回答。 （[ai-prompting-for-everyone](https://github.com/datawhalechina/ai-prompting-for-everyone)）
+
+
 
 ## 项目受众
 - 对 AI agent 和 Claude 相关技术感兴趣的学习者
